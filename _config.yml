@@ -29,7 +29,7 @@ github_username:  jasperpieterse
 url: "https://jasperpieterse.github.io" # Update with your GitHub Pages URL
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
